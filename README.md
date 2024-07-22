@@ -166,7 +166,10 @@ This is a basic implementation of API calling using GetX in Flutter. Adjust the 
   <summary><h2>📸Photo / 📽Video</h2></summary>
 
   
-     
-        https://github.com/user-attachments/assets/b53a8683-1c85-4cce-9a01-cb65acd22a90
+ 
+
+https://github.com/user-attachments/assets/0308eeec-990e-41f7-953e-541c4d23a6f2
+
+
        
 
